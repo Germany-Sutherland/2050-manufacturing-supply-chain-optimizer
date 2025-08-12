@@ -1,0 +1,9 @@
+streamlit==1.30.0
+pandas==2.1.2
+numpy==1.26.4
+scikit-learn==1.3.2
+joblib==1.3.2
+# Optional: small model for nicer text generation if environment allows.
+# transformers and torch are optional; the app will fallback to template if unavailable.
+transformers==4.34.0
+torch==2.2.2
