@@ -1,0 +1,7 @@
+supplier,location,cost_per_unit_usd,lead_time_days,reliability_percent,past_delays
+Alpha Metals,Germany,12.5,7,96,1
+Beta Plastics,China,3.75,21,88,4
+Gamma Electronics,Germany,25.0,10,94,0
+Delta Components,Poland,10.0,12,90,2
+EastEngineers,China,4.5,28,85,6
+LocalForge,Germany,18.0,4,99,0
